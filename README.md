@@ -12,6 +12,10 @@ Welcome to my shell config =^_^=
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh 
 
+##
+Don't forget to use zsh as the default shell.
+##
+
 ## Usage
 Clone the repository ``Beautiful-shell``
 
@@ -69,14 +73,9 @@ List of responses for configuration wizard
 | `Enable Transient Prompt?`   | `No`
 | `Instant Prompt Mode`   | `1`
 | `Powerlevel10k config file already exists.`   | `Yes`
-| `Apply changes to ~/.zshrc?`   | `No`
+| `Apply changes to ~/.zshrc?`   | `Yes`
 
-Uncomment lines 5,6 and 9 in the ``.zshrc``
 
-```sh
-nano ~/.zshrc
-```
-Save the file and restart the terminal
 
 
 
